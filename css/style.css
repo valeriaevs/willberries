@@ -248,6 +248,9 @@ body {
     vertical-align: middle;
     margin-right: 25px;
 }
+.payment-logo:last-child {
+    margin-right: 0;
+}
 @media (max-width: 1200px) {
     .slide-1 {
         background-size: cover;
